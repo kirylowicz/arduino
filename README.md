@@ -1,2 +1,2 @@
 # arduino
-Private Arduino projects
+Arduino projects for fun
